@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Haochen Ye
+
+<img src="https://github.com/yhaochen/HaochenYe.github.io/blob/gh-pages/Haochen_Photo.jpg" width="320" height="426">
 
 You can use the [editor on GitHub](https://github.com/yhaochen/HaochenYe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
