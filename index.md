@@ -2,38 +2,20 @@
 
 <img src="https://github.com/yhaochen/HaochenYe.github.io/blob/gh-pages/Haochen_Photo.jpg" width="320" height="426">
 
-You can use the [editor on GitHub](https://github.com/yhaochen/HaochenYe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. candidate in Department of Geosciences, Penn State University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research interest
 
-### Markdown
+Climate risk management, uncertainty characterization and quantification, sensitivity analysis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## More details about me
 
-```markdown
-Syntax highlighted code block
+[Current CV](/HaochenYe_resume.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+[Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6OzSpnhrtFfRJ9pzRG8fXklyKklF3QdbtrSozL5TA8mY9_MV6qHvS8lPMBxiMHpAiwWlvGu6NW-F3N1G2fHcchT9gw5kBTP5_pQNwI6LwRe3nwa6U&user=hzGFxd8AAAAJ)
 
-- Bulleted
-- List
+## Contact information
 
-1. Numbered
-2. List
+Address: 438 Deike Building, State College, PA 16801
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yhaochen/HaochenYe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: hxy46@psu.edu
