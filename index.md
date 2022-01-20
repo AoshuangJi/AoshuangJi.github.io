@@ -1,6 +1,6 @@
 # Haochen Ye
 
-<img src="https://github.com/yhaochen/HaochenYe.github.io/blob/gh-pages/Haochen_Photo.jpg" width="320" height="426">
+<img src="Haochen_Photo.jpg" width="320" height="426">
 
 Ph.D. candidate in Department of Geosciences, Penn State University
 
