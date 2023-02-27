@@ -10,7 +10,7 @@ Climate risk management, uncertainty characterization and quantification, sensit
 
 ## More details about me
 
-[Current CV](/HaochenYe_resume.pdf)
+[Current CV](/resume_HaochenYe.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6OzSpnhrtFfRJ9pzRG8fXklyKklF3QdbtrSozL5TA8mY9_MV6qHvS8lPMBxiMHpAiwWlvGu6NW-F3N1G2fHcchT9gw5kBTP5_pQNwI6LwRe3nwa6U&user=hzGFxd8AAAAJ)
 
