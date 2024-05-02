@@ -1,6 +1,6 @@
 # Aoshuang Ji
 
-<img src="/assets/img/logo.jpg" width="320" height="426">
+<img src="/assets/img/logo.jpg" width="160" height="90">
 
 Ph.D., Department of Geosciences, Penn State University
 
