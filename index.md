@@ -1,5 +1,5 @@
 
-<img src="/assets/img/logo.jpg" width="1600" height="900">
+<img src="/assets/img/logo.jpg" width="320" height="180">
 (Credit to NASA JPL)
 
 **Note:** I'm currently looking for a postdoc position during which I hope I can expand my skills as well as research scope.
