@@ -1,8 +1,6 @@
-# Aoshuang Ji
 
-<img src="/assets/img/logo.jpg" width="160" height="90">
-
-Ph.D., Department of Geosciences, Penn State University
+<img src="/assets/img/logo.jpg" width="1600" height="900">
+(Credit to NASA JPL)
 
 **Note:** I'm currently looking for a postdoc position during which I hope I can expand my skills as well as research scope.
 
