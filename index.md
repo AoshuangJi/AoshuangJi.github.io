@@ -6,6 +6,8 @@ Ph.D., Department of Geosciences, Penn State University
 
 **Note:** I'm currently looking for a postdoc position during which I hope I can expand my skills as well as research scope.
 
+I have a strong backgroud in modeling atmosphereic photochemistry using 'Kasting 1-D model' written in FORTRAN. I'm eager to gain more experience in telescopic observations, 3-D dynamic modeling.
+
 ## Research interest
 
 Atmosphere evolution; Planetary science; Astrobiology; Climate modeling; Paleoclimate
