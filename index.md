@@ -6,17 +6,13 @@ Ph.D., Department of Geosciences, Penn State University
 
 **Note:** I'm currently looking for a postdoc position during which I hope I can expand my skills as well as research scope.
 
-I have a strong backgroud in modeling atmosphereic photochemistry using 'Kasting 1-D model' written in FORTRAN. I'm eager to gain more experience in telescopic observations, 3-D dynamic modeling.
+I have a strong backgroud in modeling atmosphereic photochemistry using 'Kasting 1-D model' written in FORTRAN. I'm eager to gain more experience in telescopic observations, 3-D dynamic modeling. In addition to explore more in exoplanets and astrobiology, I also seek to any potential opportunities in tackling the pressing climate change and environmental issues with interdisciplinary efforts.
 
 ## Research interest
 
 Atmosphere evolution; Planetary science; Astrobiology; Climate modeling; Paleoclimate
 
 The overarching of my work is to understand the evolution of Earth's atmosphere billion years ago. Specifically, how oxygen, ozone, methane evolved through time and how these gases interacted in the atmosphere and shaped our Earth's atmosphere. I mainly use 1-D photochemical model, and have also constructed a biogeochemical box model for the atmosphere-ocean system.
-
-## Postdoc Research 
-
-I have two 
 
 ## Publications
 
