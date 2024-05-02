@@ -1,12 +1,12 @@
-# Haochen Ye
+# Aoshuang Ji
 
 <img src="Haochen_Photo.jpg" width="320" height="426">
 
-Ph.D. candidate in Department of Geosciences, Penn State University
+Ph.D. Department of Geosciences, Penn State University
 
 ## Research interest
 
-Climate risk management, uncertainty characterization and quantification, sensitivity analysis
+Atmosphere evolution; Planetary science; Astrobiology; Climate modeling; Paleoclimate
 
 ## More details about me
 
@@ -16,6 +16,6 @@ Climate risk management, uncertainty characterization and quantification, sensit
 
 ## Contact information
 
-Address: 438 Deike Building, State College, PA 16801
+Address: 405 Deike Building, University Park, PA 16802
 
-Email: hxy46@psu.edu
+Email: azj64@psu.edu
