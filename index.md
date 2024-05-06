@@ -6,7 +6,7 @@
 
 I have a strong backgroud in atmosphereic photochemistry and astrobiology. Especially, I have been using and improving 'The Kasting 1-D photochemical model' written in FORTRAN. The latest version can be found here [Ji, A., & Kasting, J. F. (2023). 1-D photochemical model with correlated-k. Zenodo.](https://doi.org/10.5281/zenodo.10384004) 
 
-For my future research, I'm eager to gain more experience in telescopic observations, 3-D dynamic climate modeling, or isotope analyses. In addition to explore more in early Earth, exoplanets and astrobiology, I also seek potential opportunities in tackling the pressing climate change and environmental issues with interdisciplinary efforts.
+For my future research, I'm eager to expand my toolkits by gaining more experience in telescopic observations, 3-D dynamic modelings or isotope analyses. Looking ahead, I aspire to couple the photochemical and biogeochemical processes of the whole Earth system into a more dynamic modeling (providing insights for exoplanets!), and then validate modeled results with real data (from either telescopic observations or lab experiments). In addition to explore more in early Earth, exoplanets and astrobiology, I also seek potential opportunities in tackling the pressing climate change and environmental issues with interdisciplinary efforts.
 
 ## Research interest
 
