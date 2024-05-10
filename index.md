@@ -20,7 +20,7 @@ The overarching of my work is to understand the evolution of Earth's atmosphere 
 
 [2] Chaverot G, Zorzi A., Ding X, Itcovitz J, Fan B, Bhatnagar S, **Ji A**, Graham RJ and Mittal T. (In Review) Resilience of snowball Earth to stochastic events.
 
-[3] **Ji A**, Tomazzeli O, Palancar G, Chaverot G, Barker M, Fernández R, Minschwaner K, Kasting JF. (In Press) A Correlated-k Parameterization for O2 Photolysis in the Schumann-Runge Bands. JGR: Atmospheres.
+[3] **Ji A**, Tomazzeli O, Palancar G, Chaverot G, Barker M, Fernández R, Minschwaner K, Kasting JF. (2024) A Correlated-k Parameterization for O2 Photolysis in the Schumann-Runge Bands. Journal of Geophysical Research: Atmospheres, 129, e2023JD040610. http://dx.doi.org/10.1029/2023JD040610.
 
 [4] **Ji A**, Kasting JF, Cooke GJ, Marsh DR, Tsigaridis K. (2023) Comparison between ozone column depths and methane lifetimes computed by 1-D and 3-D models at different atmospheric O2 levels. Royal Society Open Science. 10(5): 230056. https://doi.org/10.1098/rsos.230056.
 
