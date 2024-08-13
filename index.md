@@ -2,23 +2,19 @@
 <img src="/assets/img/logo.jpg" width="320" height="180">
 (Credit to NASA JPL)
 
-**Note:** I'm currently looking for a postdoc position during which I hope I can expand my skills as well as research scope.
-
-I have a strong backgroud in atmosphereic photochemistry and astrobiology. Especially, I have been using and improving 'The Kasting 1-D photochemical model' written in FORTRAN. The latest version can be found here [Ji, A., & Kasting, J. F. (2023). 1-D photochemical model with correlated-k. Zenodo.](https://doi.org/10.5281/zenodo.10384004) 
-
-For my future research, I'm eager to expand my toolkits by gaining more experience in telescopic observations, 3-D dynamic modelings or isotope analyses. Looking ahead, I aspire to couple the photochemical and biogeochemical processes of the whole Earth system into a more dynamic modeling (providing insights for exoplanets!), and then validate modeled results with real data (from either telescopic observations or lab experiments). In addition to explore more in early Earth, exoplanets and astrobiology, I also seek potential opportunities in tackling the pressing climate change and environmental issues with interdisciplinary efforts.
-
 ## Research interest
 
 Atmosphere evolution; Planetary science; Astrobiology; Climate modeling; Paleoclimate
 
-The overarching of my work is to understand the evolution of Earth's atmosphere billion years ago. Specifically, how oxygen, ozone, methane evolved through time and how these gases interacted in the atmosphere and shaped our Earth's atmosphere. I mainly use 1-D photochemical model, and have also constructed a biogeochemical box model for the atmosphere-ocean system.
+The overarching of my work is to understand the evolution of Earth's atmosphere billion years ago. Specifically, how oxygen, ozone, methane evolved through time and how these gases interacted in the atmosphere and shaped our Earth's atmosphere. I mainly use 1-D photochemical model and have been using and improving 'The Kasting 1-D photochemical model' written in FORTRAN. The latest version can be found here [Ji, A., & Kasting, J. F. (2023). 1-D photochemical model with correlated-k. Zenodo.](https://doi.org/10.5281/zenodo.10384004). I have also constructed a biogeochemical box model for the atmosphere-ocean system.
+
+For my future research, I'm eager to expand my toolkits by gaining more experience in telescopic observations, 3-D dynamic modelings or isotope analyses. Looking ahead, I aspire to couple the photochemical and biogeochemical processes of the whole Earth system into a more dynamic modeling (providing insights for exoplanets!), and then validate modeled results with real data (from either telescopic observations or lab experiments). In addition to explore more in early Earth, exoplanets and astrobiology, I also seek potential opportunities in tackling the pressing climate change and environmental issues with interdisciplinary efforts.
 
 ## Publications
 
 [1] **Ji A**, Kasting JF, Najjar RG. (In Preparation) Investigation of O2 level and its stability during the mid-Proterozoic. 
 
-[2] Chaverot G, Zorzi A., Ding X, Itcovitz J, Fan B, Bhatnagar S, **Ji A**, Graham RJ and Mittal T. (In Review) Resilience of snowball Earth to stochastic events.
+[2] Chaverot G, Zorzi A., Ding X, Itcovitz J, Fan B, Bhatnagar S, **Ji A**, Graham RJ and Mittal T. (2024) Resilience of snowball Earth to stochastic events. Geophysical Research Letters. 51, e2024GL109512. [https://doi.org/10.1029/2024GL109512](https://doi.org/10.1029/2024GL109512)
 
 [3] **Ji A**, Tomazzeli O, Palancar G, Chaverot G, Barker M, Fernández R, Minschwaner K, Kasting JF. (2024) A Correlated-k Parameterization for O2 Photolysis in the Schumann-Runge Bands. Journal of Geophysical Research: Atmospheres, 129, e2023JD040610. [http://dx.doi.org/10.1029/2023JD040610](http://dx.doi.org/10.1029/2023JD040610).
 
@@ -37,6 +33,6 @@ The overarching of my work is to understand the evolution of Earth's atmosphere 
 
 ## Contact information
 
-Address: 405 Deike Building, University Park, PA 16802
+Address: Geology 2460A, Department of Earth and Planetary Sciences, UC Riverside, CA 92521
 
-Email: azj64@psu.edu
+Email: aoshuang.ji@ucr.edu
