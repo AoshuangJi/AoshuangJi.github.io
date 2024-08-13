@@ -2,6 +2,10 @@
 <img src="/assets/img/logo.jpg" width="320" height="180">
 (Credit to NASA JPL)
 
+## Current position
+
+NASA Postdoctoral Fellow at UC Riverside
+
 ## Research interest
 
 Astrobiology; Atmosphere evolution; Planetary science; Climate modeling; Paleoclimate
