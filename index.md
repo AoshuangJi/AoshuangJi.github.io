@@ -37,6 +37,6 @@ For my future research, I'm eager to expand my toolkits by gaining more experien
 
 ## Contact information
 
-Address: Geology 2460A, Department of Earth and Planetary Sciences, UC Riverside, CA 92521
+Address: Geology 2460M, Department of Earth and Planetary Sciences, UC Riverside, CA 92521
 
 Email: aoshuang.ji@ucr.edu
